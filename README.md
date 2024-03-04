@@ -1,4 +1,4 @@
-YOURLS XML Sitemap Generator
+Purge All Logs
 ====================
 
 Plugin for [YOURLS](https://yourls.org) `v1.19.2`. 
